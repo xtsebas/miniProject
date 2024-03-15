@@ -1,0 +1,1 @@
+.animated{background-color:violet;font-family:Arial;font-size:25px;width:500px;height:250px;display:flex;align-items:center;justify-content:center;text-align:center;transition:transform .5s ease}.rotated{transform:scaleX(-1)}
